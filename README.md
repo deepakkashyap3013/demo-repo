@@ -1,2 +1,3 @@
 # demo-repo
 Learning git
+hello this is my first time using the Github to learn its essence in development...
