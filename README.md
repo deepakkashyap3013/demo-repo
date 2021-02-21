@@ -11,5 +11,3 @@ watching and learning from YouTube!
 
 1. Open the index.html in the local browser
 
-
-this is me...
